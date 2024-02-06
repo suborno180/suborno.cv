@@ -2,7 +2,7 @@
 
 Welcome to my online Curriculum Vitae! You can view my CV live [here](https://suborno180.github.io/suborno.cv/).
 
-[![CV Screenshot]([https://suborno180.github.io/suborno.cv/images/cv.PNG])
+[![CV Screenshot](https://suborno180.github.io/suborno.cv/images/cv.PNG)](https://suborno180.github.io/suborno.cv/)
 
 ## About Me
 
@@ -22,7 +22,7 @@ I am a passionate and skilled [Your Profession/Field]. With [X years] of experie
 
 ## Preview
 
-![CV Preview](https://your-screenshot-url.com)
+![CV Preview](https://suborno180.github.io/suborno.cv/images/cv.PNG)
 
 ## License
 
