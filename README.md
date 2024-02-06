@@ -2,7 +2,7 @@
 
 Welcome to my online Curriculum Vitae! You can view my CV live [here](https://suborno180.github.io/suborno.cv/).
 
-[![CV Screenshot]([https://your-screenshot-url.com)](https://suborno180.github.io/suborno.cv/](https://suborno180.github.io/suborno.cv/images/cv.PNG))
+[![CV Screenshot]([https://suborno180.github.io/suborno.cv/images/cv.PNG])
 
 ## About Me
 
